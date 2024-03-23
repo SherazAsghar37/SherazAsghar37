@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sheraz asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheraz asghar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sheraz-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sheraz-asghar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sheraz-asghar-a633b3246" target="blank"><img align="center" src="https://code.benco.io/icon-collection/logos/linkedin.svg" alt="sheraz-asghar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21096084/sheraz-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sheraz-asghar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sherazasgher37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sherazasgher37" height="30" width="40" /></a>
 <a href="https://fb.com/pak.gaming.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pak.gaming.90" height="30" width="40" /></a>
 <a href="https://instagram.com/shirazz.malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirazz.malik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sherazasgher37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sherazasgher37" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
